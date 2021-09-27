@@ -17,9 +17,6 @@ sphinx:
 formats: []
 
 # Optionally set the version of Python and requirements required to build your docs
-python:
-  version: 3.7
+
   
-    
-$ cat readthedocs.yml 
-requirements_file: null
+
